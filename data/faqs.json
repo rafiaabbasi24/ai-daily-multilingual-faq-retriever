@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What is the return policy?",
+    "answer": "You can return any item within 30 days of purchase for a full refund.",
+    "language": "en",
+    "category": "General"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es la política de devoluciones?",
+    "answer": "Puede devolver cualquier artículo dentro de los 30 días posteriores a la compra para obtener un reembolso completo.",
+    "language": "es",
+    "category": "General"
+  },
+  {
+    "id": 3,
+    "question": "Wie lange dauert der Versand?",
+    "answer": "Der Versand dauert in der Regel 3-5 Werktage innerhalb Deutschlands.",
+    "language": "de",
+    "category": "Shipping"
+  },
+  {
+    "id": 4,
+    "question": "Combien de temps dure la livraison?",
+    "answer": "La livraison prend généralement entre 3 et 5 jours ouvrables en France.",
+    "language": "fr",
+    "category": "Shipping"
+  },
+  {
+    "id": 5,
+    "question": "How can I reset my password?",
+    "answer": "Click on 'Forgot password' on the login page and follow the instructions sent to your email.",
+    "language": "en",
+    "category": "Account"
+  },
+  {
+    "id": 6,
+    "question": "Comment réinitialiser mon mot de passe ?",
+    "answer": "Cliquez sur « Mot de passe oublié » sur la page de connexion et suivez les instructions envoyées à votre e‑mail.",
+    "language": "fr",
+    "category": "Account"
+  },
+  {
+    "id": 7,
+    "question": "¿Cómo puedo rastrear mi pedido?",
+    "answer": "Inicie sesión en su cuenta y haga clic en 'Mis pedidos' para ver el número de seguimiento.",
+    "language": "es",
+    "category": "Order"
+  },
+  {
+    "id": 8,
+    "question": "Wie kann ich meine Bestellung verfolgen?",
+    "answer": "Melden Sie sich in Ihrem Konto an und klicken Sie auf 'Meine Bestellungen', um die Sendungsverfolgungsnummer zu sehen.",
+    "language": "de",
+    "category": "Order"
+  },
+  {
+    "id": 9,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, MasterCard, American Express, PayPal, and Apple Pay.",
+    "language": "en",
+    "category": "Payment"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué métodos de pago aceptan?",
+    "answer": "Aceptamos Visa, MasterCard, American Express, PayPal y Apple Pay.",
+    "language": "es",
+    "category": "Payment"
+  }
+]
